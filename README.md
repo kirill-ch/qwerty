@@ -18,5 +18,5 @@
 Обучение Java для профессионалов ([https://javatutor.ru/][3])
 
 [1]:	https://type-fu.com/
-[2]:	http://dict.ruslang.ru/freq.php](http://dict.ruslang.ru/freq.php
+[2]:	http://dict.ruslang.ru/freq.php
 [3]:	https://javatutor.ru/

@@ -5,7 +5,7 @@
 Чтобы добавить русский язык вам потребуются 2 файла - русская раскладка и словарь слов.
 
 Файл .tfl - русская раскладка QWERTY.
-Файл .tfd - словарь русских слов "Новый частотный словарь русской лексики" ([http://dict.ruslang.ru/freq.php][2]).
+Файл .tfd - словарь русских слов ["Новый частотный словарь русской лексики"][2].
 
 В приложение Type Fu раскладка добавляется: Preferences -\> Keyboard -\> Import From File
 
@@ -18,5 +18,5 @@
 Обучение Java для профессионалов ([https://javatutor.ru/][3])
 
 [1]:	https://type-fu.com/
-[2]:	http://dict.ruslang.ru/freq.php
+[2]:	[http://dict.ruslang.ru/freq.php](http://dict.ruslang.ru/freq.php)
 [3]:	https://javatutor.ru/

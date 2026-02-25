@@ -11,11 +11,11 @@
 
 Словарь добавляется: Preferences -\> Words -\> Import From File
 
-С уважением,
-Кирилл Чокпаров
+***** 
+**С уважением,**
+**Кирилл Чокпаров**
 
-Преподаватель Java. 
-Обучение Java для профессионалов ([https://javatutor.ru/][3])
+Преподаватель Java. Обучение Java для профессионалов ([https://javatutor.ru/][3])
 
 [1]:	https://type-fu.com/
 [2]:	http://dict.ruslang.ru/freq.php

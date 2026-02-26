@@ -26,31 +26,31 @@
     "Digit4": {
       "default": {
         "base": "4",
-        "shift": "%"
+        "shift": ";"
       }
     },
     "Digit5": {
       "default": {
         "base": "5",
-        "shift": ":"
+        "shift": "%"
       }
     },
     "Digit6": {
       "default": {
         "base": "6",
-        "shift": "\\"
+        "shift": ":"
       }
     },
     "Digit7": {
       "default": {
         "base": "7",
-        "shift": "/"
+        "shift": "?"
       }
     },
     "Digit8": {
       "default": {
         "base": "8",
-        "shift": ";"
+        "shift": "*"
       }
     },
     "Digit9": {
@@ -224,7 +224,8 @@
     "Minus": {
       "default": {
         "base": "-",
-        "shift": "_"
+        "shift": "_",
+	"altShift": "—"
       }
     },
     "Equal": {

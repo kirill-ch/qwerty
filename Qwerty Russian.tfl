@@ -1,7 +1,7 @@
 {
   "id": "custom-qwerty-russian-javatutor-ru-1",
   "name": "Qwerty Russian",
-  "description": "Описание создано Кириллом Чокпаровым | https://javatutor.ru",
+  "description": "Файл с описанием раскладки создан Кириллом Чокпаровым | https://javatutor.ru",
   "version": 1,
   "keys": {
     "Digit1": {

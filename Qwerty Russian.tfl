@@ -1,7 +1,7 @@
 {
-  "id": "custom-1",
-  "name": "Qwerty",
-  "description": "Based on http://olegp.name/software/diktor-keyboard-layout/geocities/",
+  "id": "custom-qwerty-russian-javatutor-ru-1",
+  "name": "Qwerty Russian",
+  "description": "Описание создано Кириллом Чокпаровым | https://javatutor.ru",
   "version": 1,
   "keys": {
     "Digit1": {

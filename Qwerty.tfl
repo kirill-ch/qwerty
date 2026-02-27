@@ -245,12 +245,14 @@
         "shift": "Ъ"
       }
     },
+
     "Backslash": {
       "default": {
-        "base": "",
-        "shift": ""
+        "base": "\\",
+        "shift": "/"
       }
     },
+
     "IntlBackslash": {
       "default": {}
     },
